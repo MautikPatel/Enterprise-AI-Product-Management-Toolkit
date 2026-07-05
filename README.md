@@ -1,4 +1,4 @@
-# 🤖 Enterprise AI Project Management Toolkit 📊
+# 🤖 Enterprise AI Product Management Toolkit 📊
 
 A complete, end-to-end project management documentation toolkit built for the delivery of the **Enterprise AI Knowledge Assistant** \u2014 a private, locally hosted Retrieval-Augmented Generation (RAG) platform (LangChain, Ollama, Qwen2.5, ChromaDB, Streamlit) that lets organizations ask natural-language questions over their own enterprise documents and receive accurate, source-cited answers.
 
