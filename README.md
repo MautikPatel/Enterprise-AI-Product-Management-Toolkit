@@ -1,6 +1,6 @@
 # 🤖 Enterprise AI Product Management Toolkit 📊
 
-A complete, end-to-end project management documentation toolkit built for the delivery of the **Enterprise AI Knowledge Assistant** \u2014 a private, locally hosted Retrieval-Augmented Generation (RAG) platform (LangChain, Ollama, Qwen2.5, ChromaDB, Streamlit) that lets organizations ask natural-language questions over their own enterprise documents and receive accurate, source-cited answers.
+A complete, end-to-end product management documentation toolkit built for the delivery of the **Enterprise AI Knowledge Assistant** a private, locally hosted Retrieval-Augmented Generation (RAG) platform (LangChain, Ollama, Qwen2.5, ChromaDB, Streamlit) that lets organizations ask natural-language questions over their own enterprise documents and receive accurate, source-cited answers.
 
 Product reference: [MautikPatel/Enterprise-AI-Knowledge-Assistant](https://github.com/MautikPatel/Enterprise-AI-Knowledge-Assistant)
 
@@ -46,23 +46,23 @@ Enterprise-Project-Management-Toolkit/
 
 | Phase | Document | Purpose |
 |---|---|---|
-| 01 \u2013 Initiation | Executive Brief & PR-FAQ | Sponsor-facing "working backwards" brief introducing the product, problem, and value. |
-| 01 \u2013 Initiation | Project Charter | Formal authorization, scope, milestones, and governance for the project. |
-| 02 \u2013 Requirements | BRD | Business needs, objectives, and success criteria. |
-| 02 \u2013 Requirements | FRD | System functions derived from the business requirements. |
-| 02 \u2013 Requirements | PRD | Product vision, personas, features, user stories, and release plan. |
-| 03 \u2013 Architecture & Design | Technical Design Document | System architecture, technology stack, data flow, deployment, and security design. |
-| 04 \u2013 Project Planning | Project Plan | Work breakdown, schedule, milestones, and resourcing. |
-| 04 \u2013 Project Planning | RACI Matrix | Roles and responsibilities across all key activities. |
-| 04 \u2013 Project Planning | Stakeholder Register & Communication Plan | Stakeholder mapping and communication cadence. |
-| 05 \u2013 Governance & Risk | Infrastructure & Capacity Plan | Compute, storage, and scaling plan for the local AI stack. |
-| 05 \u2013 Governance & Risk | Enterprise Readiness & SLA | Go-live readiness checklist and service level objectives. |
-| 05 \u2013 Governance & Risk | AI Risk Evaluation & Safety Case | Responsible AI risk assessment and mitigations specific to the RAG architecture. |
-| 05 \u2013 Governance & Risk | RAID Log & Risk Register | Risks, Assumptions, Issues, and Dependencies tracker. |
-| 06 \u2013 Testing & Quality | Test Plan & UAT Sign-Off | Test strategy, test cases, defect severity, and UAT acceptance. |
-| 07 \u2013 Project Execution | Weekly Client Status Update | Recurring steering committee status report template. |
-| 08 \u2013 Go-Live | Launch Readiness Review | Go/no-go gate, rollback plan, and hypercare approach. |
-| 09 \u2013 Project Closure | Post-Implementation Review | Outcomes vs. objectives, lessons learned, and closure sign-off. |
+| 01 - Initiation | Executive Brief & PR-FAQ | Sponsor-facing "working backwards" brief introducing the product, problem, and value. |
+| 01 - Initiation | Project Charter | Formal authorization, scope, milestones, and governance for the project. |
+| 02 - Requirements | BRD | Business needs, objectives, and success criteria. |
+| 02 - Requirements | FRD | System functions derived from the business requirements. |
+| 02 - Requirements | PRD | Product vision, personas, features, user stories, and release plan. |
+| 03 - Architecture & Design | Technical Design Document | System architecture, technology stack, data flow, deployment, and security design. |
+| 04 - Project Planning | Project Plan | Work breakdown, schedule, milestones, and resourcing. |
+| 04 - Project Planning | RACI Matrix | Roles and responsibilities across all key activities. |
+| 04 - Project Planning | Stakeholder Register & Communication Plan | Stakeholder mapping and communication cadence. |
+| 05 - Governance & Risk | Infrastructure & Capacity Plan | Compute, storage, and scaling plan for the local AI stack. |
+| 05 - Governance & Risk | Enterprise Readiness & SLA | Go-live readiness checklist and service level objectives. |
+| 05 - Governance & Risk | AI Risk Evaluation & Safety Case | Responsible AI risk assessment and mitigations specific to the RAG architecture. |
+| 05 - Governance & Risk | RAID Log & Risk Register | Risks, Assumptions, Issues, and Dependencies tracker. |
+| 06 - Testing & Quality | Test Plan & UAT Sign-Off | Test strategy, test cases, defect severity, and UAT acceptance. |
+| 07 - Project Execution | Weekly Client Status Update | Recurring steering committee status report template. |
+| 08 - Go-Live | Launch Readiness Review | Go/no-go gate, rollback plan, and hypercare approach. |
+| 09 - Project Closure | Post-Implementation Review | Outcomes vs. objectives, lessons learned, and closure sign-off. |
 
 ## About the Underlying Product
 
